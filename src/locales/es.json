@@ -1,0 +1,12 @@
+{
+    "welcome":"Bienvenido à aplicación",
+    "logout":"Sair da Conta",
+    "deleteAccount":"Excluir contacto",
+    "confirmDelete":"¿Estás seguro que deseas eliminar la cuenta?",
+    "cancel":"Cancelar",
+    "delete":"Borrar",
+    "login":"Iniciar sesión en la aplicación",
+    "password":"Contraseña",
+    "forgotPassword":"Has olvidado tu contraseña",
+    "register":"Registro"
+}

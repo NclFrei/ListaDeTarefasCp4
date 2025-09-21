@@ -1,0 +1,12 @@
+{
+    "welcome":"Welcome",
+    "logout":"Log-out",
+    "deleteAccount":"Delete Account",
+    "confirmDelete":"Are you sure you want to delete your account?",
+    "cancel":"Cancel",
+    "delete":"Delete",
+    "login":"Log-in in App",
+    "password":"Password",
+    "forgotPassword":"Forgot Password",
+    "register":"Register"
+}
